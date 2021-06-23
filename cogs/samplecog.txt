@@ -1,0 +1,132 @@
+import discord
+from discord.ext import commands
+import datetime
+
+class ping(commands.Cog):
+
+  def __init__(self,client):
+    self.client=client
+
+  
+  #@commands.Cog.listener()  for event
+  #@commands.command() for command
+
+
+def setup(client):
+  client.add_cog(ping(client))
+
+
+
+
+import discord
+from discord.ext import commands
+import datetime
+from PIL import Image,ImageFont,ImageDraw
+import requests
+import DiscordUtils
+import json 
+
+intents = discord.Intents.default()
+intents.members = True
+
+#time format
+date_format="%d %b %Y %H:%M:%S"
+timestamp = datetime.datetime.now()
+
+#chanel ids
+welcome_channel=843792330129670156
+react1_channel=843792330619879425
+react2_channel=843792330619879429
+#role ids
+oshadharon_role=848556720761602088
+
+joining_time=discord.Member.joined_at
+#tracker = DiscordUtils.InviteTracker(client)
+
+# client = bot.commands(intents=intents)
+
+# class welcome(commands.Cog):
+
+#   def __init__(self,client):
+#     self.client=client
+
+#     #tracker for invite
+
+
+#     @commands.Cog.listener()
+
+      
+#     #@commands.command() for command
+
+
+# def setup(client):
+#   client.add_cog(welcome(client))
+
+class welcome(commands.Cog):
+
+  def __init__(self, bot):
+    self.client=client
+    self.tracker = DiscordUtils.InviteTracker(self.client)
+    self._last_member = None
+
+  @commands.Cog.listener()
+  async def on_member_join(self, member):
+    channel = member.guild.system_channel
+    if channel is not None:
+      await channel.send(f'Welcome {member.mention}.')
+      #"""Display custom welcome message banner."""
+      # Open the input image, convert to RGB
+      avatar_bytes = requests.get(member.avatar_url, stream=True).raw()
+      avatar = Image.open(avatar_bytes).convert("RGB")	 
+      #Create same size alpha layer with circle, and apply to avatar
+      alpha = Image.new("L", avatar.size, 0)
+      draw = ImageDraw.Draw(alpha)
+      draw.ellipse([(0, 0), avatar.size], fill=255)
+      avatar.putalpha(alpha)
+      font=ImageFont.truetype("./fonts/FontsFree-Net-Shorif-Bongobondhu-UNICODE.ttf",150)
+      avatar = avatar.resize((350, 350))
+      # Open banner and alpha-composite avatar onto it
+      banner = Image.open("./img/omanush bot welcome template-003.png").convert("RGBA")
+      overlay = Image.new("RGBA", banner.size)
+      overlay.paste(avatar, (500, 680))
+      draw=ImageDraw.Draw(overlay)
+      name=member
+      W, H = (635, 382)
+      draw.text((W,H),name,font=font, fill =(231, 117, 93),anchor="mm")
+      banner.alpha_composite(overlay)
+
+      # Convert to RGB mode to save as JPG. Append user name, so that we don't upload the wrong image if two users join at almost the same time.
+
+      welcome_file_path = "./img/welcome_banner.png"
+      banner.convert("RGB").save(welcome_file_path)
+      # Post the image.
+      channel = self.client.get_channel(welcome_channel) 
+      await member.send(file=discord.File(welcome_file_path))
+      # inviter is the member who invited
+      inviter = await self.tracker.fetch_inviter(member) 
+      # inviter is the member who invited
+      #embed code for joining server
+      embed=discord.Embed(title=f"Welcome {member.name}", description=f"Thanks for joining {member.guild.name}!")
+      #embed.set_thumbnail(url=member.avatar_url)
+      file = discord.File("welcome_banner.png", filename="./img/welcome_banner.png")
+      embed.set_image(url="attachment://./img/welcome_banner.png")
+      embed.add_field(name=f"{member.name} check this channels to get introduced to this server",value=f"Joined at {member.joined_at.strftime(date_format)}",inline=False)
+      embed.set_footer(text=f"Invited by:{inviter}",icon_url=inviter.avatar_url)
+      embed.timestamp = datetime.datetime.utcnow()
+      channel=self.client.fetch_channel(welcome_channel)
+      await channel.send(file=file,embed=embed)
+      await member.send(embed=embed)
+      await member.add_roles(member.guild.get_role(oshadharon_role))            
+
+
+def setup(client):
+  client.add_cog(welcome(client))
+
+@client.event
+async def on_guild_join(guild):
+  channel = client.get_channel(welcome_channel)
+  embed=discord.Embed(title=f"Working with {len(client.guilds)} servers",
+  description=f"Happy to work with {guild.name}")
+  embed.add_field(name=f"Big shoutout to {guild.owner.name} for adding me up",value="You guys are awsome!!!")
+  embed.set_image(url=client.user.avatar_url)
+  await channel.send(embed=embed)
