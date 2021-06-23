@@ -427,3 +427,280 @@
 2021-06-23 19:46:53,601:DEBUG:discord.client: Dispatching event socket_raw_receive
 2021-06-23 19:46:53,601:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
 2021-06-23 19:46:53,601:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:47:34,494:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:47:34,850:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:47:34,850:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:47:34,850:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:48:15,746:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:48:16,102:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:48:16,102:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:48:16,102:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:48:56,998:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:48:57,353:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:48:57,354:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:48:57,354:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:49:38,259:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:49:38,614:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:49:38,615:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:49:38,615:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:50:19,523:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:50:19,885:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:50:19,885:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:50:19,885:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:51:00,785:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:51:01,142:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:51:01,143:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:51:01,143:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:51:42,040:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:51:42,397:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:51:42,397:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:51:42,397:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:52:23,295:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:52:23,653:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:52:23,653:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:52:23,653:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:53:04,552:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:53:04,909:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:53:04,909:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:53:04,910:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:53:45,809:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:53:46,168:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:53:46,168:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:53:46,168:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:54:27,068:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:54:27,429:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:54:27,429:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:54:27,429:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:55:08,320:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:55:08,715:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:55:08,715:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:55:08,716:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:55:49,572:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 8.
+2021-06-23 19:55:49,930:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:55:49,930:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:55:49,931:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:00,660:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:00,691:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 9, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:01.197000+00:00', 'referenced_message': None, 'pinned': False, 'nonce': '857257688755601408', 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['848556720761602088'], 'mute': False, 'joined_at': '2021-05-17T10:09:28.417000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257693454532658', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': '.ping', 'components': [], 'channel_id': '843792330619879429', 'author': {'username': 'Zuhayer Javed', 'public_flags': 128, 'id': '587529076286423041', 'discriminator': '0001', 'avatar': 'a_f192a469dfedc24de5387ae0b27489d2'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:00,769:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:01,163:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:01,271:DEBUG:discord.client: Dispatching event command
+2021-06-23 19:56:02,596:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%96/@me with None has returned 204
+2021-06-23 19:56:02,627:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:02,639:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%96/@me has received 
+2021-06-23 19:56:02,651:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:02,659:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 10, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257693454532658', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💖', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:02,715:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:02,733:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:02,734:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:02,734:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:02,741:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 11, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:03.147000+00:00', 'referenced_message': None, 'pinned': False, 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257701633425450', 'flags': 0, 'embeds': [{'type': 'rich', 'title': '**PONG!** **357ms**', 'timestamp': '2021-06-23T13:56:01.373676+00:00', 'description': '<@587529076286423041> দোস্ত এই রাখ তোর PING', 'color': 812554}], 'edited_timestamp': None, 'content': '', 'components': [], 'channel_id': '843792330619879429', 'author': {'username': 'অমানুষ', 'public_flags': 0, 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:02,750:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:02,751:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:02,782:DEBUG:discord.http: POST https://discord.com/api/v7/channels/843792330619879429/messages with {"embed":{"color":812554,"timestamp":"2021-06-23T13:56:01.373676+00:00","type":"rich","description":"<@587529076286423041> \u09a6\u09cb\u09b8\u09cd\u09a4 \u098f\u0987 \u09b0\u09be\u0996 \u09a4\u09cb\u09b0 PING","title":"**PONG!** **357ms**"}} has returned 200
+2021-06-23 19:56:02,783:DEBUG:discord.http: POST https://discord.com/api/v7/channels/843792330619879429/messages has received {'id': '857257701633425450', 'type': 0, 'content': '', 'channel_id': '843792330619879429', 'author': {'id': '848169984831389716', 'username': 'অমানুষ', 'avatar': '246e46e7092cad9b6844e5ff3e653939', 'discriminator': '6105', 'public_flags': 0, 'bot': True}, 'attachments': [], 'embeds': [{'type': 'rich', 'title': '**PONG!** **357ms**', 'description': '<@587529076286423041> দোস্ত এই রাখ তোর PING', 'color': 812554, 'timestamp': '2021-06-23T13:56:01.373676+00:00'}], 'mentions': [], 'mention_roles': [], 'pinned': False, 'mention_everyone': False, 'tts': False, 'timestamp': '2021-06-23T13:56:03.147000+00:00', 'edited_timestamp': None, 'flags': 0, 'components': [], 'referenced_message': None}
+2021-06-23 19:56:02,815:DEBUG:discord.client: Dispatching event command_completion
+2021-06-23 19:56:03,273:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%9E/@me with None has returned 204
+2021-06-23 19:56:03,273:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:03,273:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%9E/@me has received 
+2021-06-23 19:56:03,296:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:03,296:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 12, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257693454532658', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💞', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:03,296:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:03,297:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:03,297:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:03,895:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%96/@me with None has returned 204
+2021-06-23 19:56:03,895:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:03,895:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%96/@me has received 
+2021-06-23 19:56:03,923:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:03,923:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 13, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257701633425450', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💖', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:03,924:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:03,924:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:03,924:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:04,532:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%93/@me with None has returned 204
+2021-06-23 19:56:04,532:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:04,532:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%93/@me has received 
+2021-06-23 19:56:04,554:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:04,555:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 14, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257693454532658', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💓', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:04,555:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:04,555:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:04,555:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:05,181:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%9E/@me with None has returned 204
+2021-06-23 19:56:05,181:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:05,181:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%9E/@me has received 
+2021-06-23 19:56:05,207:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:05,207:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 15, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257701633425450', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💞', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:05,207:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:05,207:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:05,208:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:05,833:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%98/@me with None has returned 204
+2021-06-23 19:56:05,833:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:05,833:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%98/@me has received 
+2021-06-23 19:56:05,862:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:05,862:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 16, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257693454532658', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💘', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:05,862:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:05,863:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:05,863:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:06,669:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%93/@me with None has returned 204
+2021-06-23 19:56:06,669:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:06,669:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%93/@me has received 
+2021-06-23 19:56:06,694:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:06,695:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 17, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257701633425450', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💓', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:06,695:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:06,695:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:06,695:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:07,323:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%9D/@me with None has returned 204
+2021-06-23 19:56:07,323:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:07,323:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257693454532658/reactions/%F0%9F%92%9D/@me has received 
+2021-06-23 19:56:07,494:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:07,495:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 18, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257693454532658', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💝', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:07,495:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:07,495:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:07,495:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:08,013:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%98/@me with None has returned 204
+2021-06-23 19:56:08,013:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:08,014:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%98/@me has received 
+2021-06-23 19:56:08,030:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:08,030:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 19, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257701633425450', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💘', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:08,031:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:08,031:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:08,031:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:08,646:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%9D/@me with None has returned 204
+2021-06-23 19:56:08,646:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:08,646:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257701633425450/reactions/%F0%9F%92%9D/@me has received 
+2021-06-23 19:56:08,661:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:08,661:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 20, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257701633425450', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💝', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:08,661:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:08,662:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:08,662:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:14,968:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:14,968:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'TYPING_START', 's': 21, 'op': 0, 'd': {'user_id': '587529076286423041', 'timestamp': 1624456575, 'member': {'user': {'username': 'Zuhayer Javed', 'public_flags': 128, 'id': '587529076286423041', 'discriminator': '0001', 'avatar': 'a_f192a469dfedc24de5387ae0b27489d2'}, 'roles': ['848556720761602088'], 'mute': False, 'joined_at': '2021-05-17T10:09:28.417000+00:00', 'hoisted_role': None, 'deaf': False}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:14,984:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:14,984:DEBUG:discord.client: Dispatching event typing
+2021-06-23 19:56:18,224:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:18,224:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 22, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:18.793000+00:00', 'referenced_message': None, 'pinned': False, 'nonce': '857257762877341696', 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['848556720761602088'], 'mute': False, 'joined_at': '2021-05-17T10:09:28.417000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257767256981535', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': '.help', 'components': [], 'channel_id': '843792330619879429', 'author': {'username': 'Zuhayer Javed', 'public_flags': 128, 'id': '587529076286423041', 'discriminator': '0001', 'avatar': 'a_f192a469dfedc24de5387ae0b27489d2'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:18,225:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:18,225:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:18,225:DEBUG:discord.client: Dispatching event command
+2021-06-23 19:56:18,848:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:18,848:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 23, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:19.451000+00:00', 'referenced_message': None, 'pinned': False, 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257770017226763', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': '```\nutility:\n  clear  \n  dp     \n  ping   \n  quit   \n\u200bNo Category:\n  help   Shows this message\n  load   \n  unload \n\nType .help command for more info on a command.\nYou can also type .help category for more info on a category.\n```', 'components': [], 'channel_id': '843792330619879429', 'author': {'username': 'অমানুষ', 'public_flags': 0, 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:18,848:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:18,849:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:18,861:DEBUG:discord.http: POST https://discord.com/api/v7/channels/843792330619879429/messages with {"content":"```\nutility:\n  clear  \n  dp     \n  ping   \n  quit   \n\u200bNo Category:\n  help   Shows this message\n  load   \n  unload \n\nType .help command for more info on a command.\nYou can also type .help category for more info on a category.\n```"} has returned 200
+2021-06-23 19:56:18,861:DEBUG:discord.http: POST https://discord.com/api/v7/channels/843792330619879429/messages has received {'id': '857257770017226763', 'type': 0, 'content': '```\nutility:\n  clear  \n  dp     \n  ping   \n  quit   \n\u200bNo Category:\n  help   Shows this message\n  load   \n  unload \n\nType .help command for more info on a command.\nYou can also type .help category for more info on a category.\n```', 'channel_id': '843792330619879429', 'author': {'id': '848169984831389716', 'username': 'অমানুষ', 'avatar': '246e46e7092cad9b6844e5ff3e653939', 'discriminator': '6105', 'public_flags': 0, 'bot': True}, 'attachments': [], 'embeds': [], 'mentions': [], 'mention_roles': [], 'pinned': False, 'mention_everyone': False, 'tts': False, 'timestamp': '2021-06-23T13:56:19.451000+00:00', 'edited_timestamp': None, 'flags': 0, 'components': [], 'referenced_message': None}
+2021-06-23 19:56:18,861:DEBUG:discord.client: Dispatching event command_completion
+2021-06-23 19:56:18,882:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%96/@me with None has returned 204
+2021-06-23 19:56:18,883:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:18,883:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%96/@me has received 
+2021-06-23 19:56:18,923:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:18,924:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 24, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257767256981535', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💖', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:18,924:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:18,924:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:18,924:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:19,545:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%96/@me with None has returned 204
+2021-06-23 19:56:19,546:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:19,547:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%96/@me has received 
+2021-06-23 19:56:19,571:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:19,571:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 25, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257770017226763', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💖', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:19,572:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:19,572:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:19,572:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:20,179:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%9E/@me with None has returned 204
+2021-06-23 19:56:20,179:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:20,179:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%9E/@me has received 
+2021-06-23 19:56:20,212:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:20,213:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 26, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257767256981535', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💞', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:20,213:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:20,213:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:20,213:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:20,831:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%9E/@me with None has returned 204
+2021-06-23 19:56:20,832:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:20,832:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%9E/@me has received 
+2021-06-23 19:56:20,854:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:20,875:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 27, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257770017226763', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💞', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:20,876:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:20,876:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:20,877:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:21,487:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%93/@me with None has returned 204
+2021-06-23 19:56:21,487:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:21,488:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%93/@me has received 
+2021-06-23 19:56:21,508:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:21,508:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 28, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257767256981535', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💓', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:21,508:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:21,509:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:21,509:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:22,152:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%93/@me with None has returned 204
+2021-06-23 19:56:22,152:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:22,152:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%93/@me has received 
+2021-06-23 19:56:22,195:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:22,195:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 29, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257770017226763', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💓', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:22,196:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:22,196:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:22,196:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:22,938:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%98/@me with None has returned 204
+2021-06-23 19:56:22,938:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:22,938:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%98/@me has received 
+2021-06-23 19:56:22,939:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:22,939:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 30, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257767256981535', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💘', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:22,939:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:22,939:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:22,939:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:23,639:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%98/@me with None has returned 204
+2021-06-23 19:56:23,639:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:23,639:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%98/@me has received 
+2021-06-23 19:56:23,648:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:23,648:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 31, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257770017226763', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💘', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:23,648:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:23,648:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:23,648:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:24,301:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%9D/@me with None has returned 204
+2021-06-23 19:56:24,301:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:24,302:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257767256981535/reactions/%F0%9F%92%9D/@me has received 
+2021-06-23 19:56:24,343:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:24,349:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 32, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257767256981535', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💝', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:24,350:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:24,351:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:24,351:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:24,946:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%9D/@me with None has returned 204
+2021-06-23 19:56:24,946:DEBUG:discord.http: A rate limit bucket has been exhausted (bucket: 843792330619879429:None:/channels/{channel_id}/messages/{message_id}/reactions/{emoji}/@me, retry: 0.25).
+2021-06-23 19:56:24,946:DEBUG:discord.http: PUT https://discord.com/api/v7/channels/843792330619879429/messages/857257770017226763/reactions/%F0%9F%92%9D/@me has received 
+2021-06-23 19:56:24,970:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:24,970:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_REACTION_ADD', 's': 33, 'op': 0, 'd': {'user_id': '848169984831389716', 'message_id': '857257770017226763', 'member': {'user': {'username': 'অমানুষ', 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'emoji': {'name': '💝', 'id': None}, 'channel_id': '843792330619879429', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:24,970:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:24,970:DEBUG:discord.client: Dispatching event raw_reaction_add
+2021-06-23 19:56:24,971:DEBUG:discord.client: Dispatching event reaction_add
+2021-06-23 19:56:26,003:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:26,003:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'TYPING_START', 's': 34, 'op': 0, 'd': {'user_id': '587529076286423041', 'timestamp': 1624456586, 'member': {'user': {'username': 'Zuhayer Javed', 'public_flags': 128, 'id': '587529076286423041', 'discriminator': '0001', 'avatar': 'a_f192a469dfedc24de5387ae0b27489d2'}, 'roles': ['848556720761602088'], 'mute': False, 'joined_at': '2021-05-17T10:09:28.417000+00:00', 'hoisted_role': None, 'deaf': False}, 'channel_id': '847337949207986187', 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:26,004:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:26,004:DEBUG:discord.client: Dispatching event typing
+2021-06-23 19:56:26,590:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:26,591:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 35, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:27.196000+00:00', 'referenced_message': None, 'pinned': False, 'nonce': '857257798017220608', 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['848556720761602088'], 'mute': False, 'joined_at': '2021-05-17T10:09:28.417000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257802502635551', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': '.help', 'components': [], 'channel_id': '847337949207986187', 'author': {'username': 'Zuhayer Javed', 'public_flags': 128, 'id': '587529076286423041', 'discriminator': '0001', 'avatar': 'a_f192a469dfedc24de5387ae0b27489d2'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:26,591:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:26,591:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:26,591:DEBUG:discord.client: Dispatching event command
+2021-06-23 19:56:27,009:DEBUG:discord.http: POST https://discord.com/api/v7/channels/847337949207986187/messages with {"content":"```\nutility:\n  clear  \n  dp     \n  ping   \n  quit   \n\u200bNo Category:\n  help   Shows this message\n  load   \n  unload \n\nType .help command for more info on a command.\nYou can also type .help category for more info on a category.\n```"} has returned 200
+2021-06-23 19:56:27,009:DEBUG:discord.http: POST https://discord.com/api/v7/channels/847337949207986187/messages has received {'id': '857257804276695070', 'type': 0, 'content': '```\nutility:\n  clear  \n  dp     \n  ping   \n  quit   \n\u200bNo Category:\n  help   Shows this message\n  load   \n  unload \n\nType .help command for more info on a command.\nYou can also type .help category for more info on a category.\n```', 'channel_id': '847337949207986187', 'author': {'id': '848169984831389716', 'username': 'অমানুষ', 'avatar': '246e46e7092cad9b6844e5ff3e653939', 'discriminator': '6105', 'public_flags': 0, 'bot': True}, 'attachments': [], 'embeds': [], 'mentions': [], 'mention_roles': [], 'pinned': False, 'mention_everyone': False, 'tts': False, 'timestamp': '2021-06-23T13:56:27.619000+00:00', 'edited_timestamp': None, 'flags': 0, 'components': [], 'referenced_message': None}
+2021-06-23 19:56:27,010:DEBUG:discord.client: Dispatching event command_completion
+2021-06-23 19:56:27,022:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:27,022:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 36, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:27.619000+00:00', 'referenced_message': None, 'pinned': False, 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257804276695070', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': '```\nutility:\n  clear  \n  dp     \n  ping   \n  quit   \n\u200bNo Category:\n  help   Shows this message\n  load   \n  unload \n\nType .help command for more info on a command.\nYou can also type .help category for more info on a category.\n```', 'components': [], 'channel_id': '847337949207986187', 'author': {'username': 'অমানুষ', 'public_flags': 0, 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:27,022:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:27,023:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:30,435:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:30,435:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 37, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:31.051000+00:00', 'referenced_message': None, 'pinned': False, 'nonce': '857257814089793536', 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['848556720761602088'], 'mute': False, 'joined_at': '2021-05-17T10:09:28.417000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257818670759956', 'flags': 0, 'embeds': [], 'edited_timestamp': None, 'content': '.ping', 'components': [], 'channel_id': '847337949207986187', 'author': {'username': 'Zuhayer Javed', 'public_flags': 128, 'id': '587529076286423041', 'discriminator': '0001', 'avatar': 'a_f192a469dfedc24de5387ae0b27489d2'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:30,435:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:30,435:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:30,436:DEBUG:discord.client: Dispatching event command
+2021-06-23 19:56:30,831:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 37.
+2021-06-23 19:56:30,931:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:30,931:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': 'MESSAGE_CREATE', 's': 38, 'op': 0, 'd': {'type': 0, 'tts': False, 'timestamp': '2021-06-23T13:56:31.523000+00:00', 'referenced_message': None, 'pinned': False, 'mentions': [], 'mention_roles': [], 'mention_everyone': False, 'member': {'roles': ['850773247003852862'], 'mute': False, 'joined_at': '2021-06-05T16:29:08.724000+00:00', 'hoisted_role': None, 'deaf': False}, 'id': '857257820651126785', 'flags': 0, 'embeds': [{'type': 'rich', 'title': '**PONG!** **357ms**', 'timestamp': '2021-06-23T13:56:30.436721+00:00', 'description': '<@587529076286423041> দোস্ত এই রাখ তোর PING', 'color': 812554}], 'edited_timestamp': None, 'content': '', 'components': [], 'channel_id': '847337949207986187', 'author': {'username': 'অমানুষ', 'public_flags': 0, 'id': '848169984831389716', 'discriminator': '6105', 'bot': True, 'avatar': '246e46e7092cad9b6844e5ff3e653939'}, 'attachments': [], 'guild_id': '843792330129670154'}}
+2021-06-23 19:56:30,932:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:30,932:DEBUG:discord.client: Dispatching event message
+2021-06-23 19:56:31,005:DEBUG:discord.http: POST https://discord.com/api/v7/channels/847337949207986187/messages with {"embed":{"color":812554,"timestamp":"2021-06-23T13:56:30.436721+00:00","type":"rich","description":"<@587529076286423041> \u09a6\u09cb\u09b8\u09cd\u09a4 \u098f\u0987 \u09b0\u09be\u0996 \u09a4\u09cb\u09b0 PING","title":"**PONG!** **357ms**"}} has returned 200
+2021-06-23 19:56:31,019:DEBUG:discord.http: POST https://discord.com/api/v7/channels/847337949207986187/messages has received {'id': '857257820651126785', 'type': 0, 'content': '', 'channel_id': '847337949207986187', 'author': {'id': '848169984831389716', 'username': 'অমানুষ', 'avatar': '246e46e7092cad9b6844e5ff3e653939', 'discriminator': '6105', 'public_flags': 0, 'bot': True}, 'attachments': [], 'embeds': [{'type': 'rich', 'title': '**PONG!** **357ms**', 'description': '<@587529076286423041> দোস্ত এই রাখ তোর PING', 'color': 812554, 'timestamp': '2021-06-23T13:56:30.436721+00:00'}], 'mentions': [], 'mention_roles': [], 'pinned': False, 'mention_everyone': False, 'tts': False, 'timestamp': '2021-06-23T13:56:31.523000+00:00', 'edited_timestamp': None, 'flags': 0, 'components': [], 'referenced_message': None}
+2021-06-23 19:56:31,019:DEBUG:discord.client: Dispatching event command_completion
+2021-06-23 19:56:31,189:DEBUG:discord.client: Dispatching event socket_raw_receive
+2021-06-23 19:56:31,190:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2021-06-23 19:56:31,190:DEBUG:discord.client: Dispatching event socket_response
+2021-06-23 19:56:36,646:INFO:discord.client: Received signal to terminate bot and event loop.
+2021-06-23 19:56:36,646:INFO:discord.client: Cleaning up tasks.
+2021-06-23 19:56:36,646:INFO:discord.client: Cleaning up after 1 tasks.
+2021-06-23 19:56:36,856:INFO:discord.client: All tasks finished cancelling.
+2021-06-23 19:56:36,858:INFO:discord.client: Closing the event loop.
